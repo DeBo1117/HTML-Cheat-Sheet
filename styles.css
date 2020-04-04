@@ -1,0 +1,13 @@
+table, th, td {border: 1px solid black;
+}
+
+.code {color: white; font-family: monospace; font-weight: bold; background-color: SteelBlue;
+}
+.name {background-color: LightSteelBlue;
+}
+
+.description {background-color: LightSteelBlue; 
+}
+
+body {background-color: MintCream; font-family: Arial;
+}
